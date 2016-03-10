@@ -21,4 +21,17 @@
         android:textSize="50sp"
         android:background="#E91E63"
         android:layout_alignParentBottom="true"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="喵電感應"
+        android:textColor="#009688"
+        android:textSize="35sp"
+        android:layout_alignParentRight="true"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ok"
+        android:layout_centerVertical="true"/>
 </RelativeLayout>
